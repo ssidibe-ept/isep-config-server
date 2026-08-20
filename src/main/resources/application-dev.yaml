@@ -1,8 +1,8 @@
 spring:
   application:
     name: isep-config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: file:///Users/ssidibe/isepat-dbe-p6/isep-config-server/isep-config-server-repos
+  #cloud:
+  #  config:
+   #   server:
+    #    git:
+     #     uri: file:///Users/ssidibe/isepat-dbe-p6/isep-config-server/isep-config-server-repos
